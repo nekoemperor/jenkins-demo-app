@@ -1,5 +1,7 @@
 ## demo app - developing with Docker
 
+DISCLAIMER!!!: This repo is created based on [GitLab Nana Janashia](https://gitlab.com/nanuchi/techworld-js-docker-demo-app/-/tree/dev), for jenkins exercising purpose.
+
 This demo app shows a simple user profile app set up using 
 - index.html with pure js and css styles
 - nodejs backend with express mode
